@@ -1,20 +1,31 @@
-Note
-====
-
-alive-Responsive-Coming-Soon-Template
-
-Responsive, Bootstrap Mobile First Web Template 
-Author URI: http://webthemez.com/
-
-alive is a minimal, responsive, business coming soon / landing page / one page HTML5 template based on Bootstrap 3.2.0. This theme is clean and fast, easy to customize multipurpose, includes Services and Contact form, 400+ Font Awesome icons, custom backgrounds and much more!
+Stellar by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
+Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
+I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
+nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
+you need one), and an assortment of pre-styled elements.
 
-Credits
-=======
-Framework  http://getbootstrap.com
-Images	(http://unsplash.com - CC0 licensed)
-Icons	Font Awesome (http://fortawesome.github.com/Font-Awesome/)
-Other	html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-Note: All the images used in this template is for demo use only, we are not responsible for any copyrights issue.	
+(* = not included)
+
+AJ
+aj@lkn.io | @ajlkn
+
+
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
